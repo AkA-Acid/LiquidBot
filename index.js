@@ -4,7 +4,7 @@ const ms = require('ms');
 const cheerio = require('cheerio');
 const request = require('request');
 
-const token = 'NjY2NzAwMDcyMjMwMDYwMDcy.Xor6LA.6-JAe17L8ZhB049JjHoDE74cOiU';
+const token = 'NjY2NzAwMDcyMjMwMDYwMDcy.Xor85Q.WDIYPUu8kfGEjA2zFOl4pSlQO-8';
 
 const PREFIX = 'bot>';
 
